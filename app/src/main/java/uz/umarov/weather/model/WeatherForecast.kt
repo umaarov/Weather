@@ -1,0 +1,1 @@
+package uz.umarov.weather.modelclass WeatherForecast {    var list = ArrayList<Weather>()}
